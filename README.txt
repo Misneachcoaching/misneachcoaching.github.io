@@ -1,1 +1,0 @@
-Preview locally by opening index.html. Upload all files to a GitHub repo named misneachcoaching.github.io to publish free.
